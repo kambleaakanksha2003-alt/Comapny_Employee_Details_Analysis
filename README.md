@@ -95,8 +95,7 @@ To analyze employee data in order to:
 ---
 
 ## 📂 Dataset
-All analysis was based on the following dataset:  
-🔗 [Airbnb Paris Listings & Reviews (Kaggle)](https://www.kaggle.com/datasets/tawfikelmetwally/employee-dataset)
+All analysis was based on the following dataset: 
 - File name: `Employee.csv`
 - Fields: `Age`, `Gender`, `Education`, `City`, `PaymentTier`, `JoiningYear`, `ExperienceInCurrentDomain`, `EverBenched`, `LeaveOrNot`
 

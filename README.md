@@ -71,6 +71,38 @@ To analyze employee data in order to:
 
 ---
 
+## ✅ Recommendations
+
+1. **Retention Programs**:
+   - Focus on employees with 0 domain experience; they show higher attrition rates.
+   - Mentorship or early engagement strategies recommended.
+
+2. **Balanced Hiring Across Education Streams**:
+   - If one education stream dominates, diversify hiring to improve team versatility.
+
+3. **Payment Tier Assessment**:
+   - Review compensation models if Tier 1 employees are leaving more often.
+
+4. **City-specific Strategies**:
+   - Cities with lower hiring trends might benefit from localized recruitment campaigns.
+
+5. **Gender Inclusion**:
+   - Address any imbalance in benching or project assignment between genders.
+
+6. **Young Talent Support**:
+   - If younger employees show more churn, provide growth and development opportunities.
+
+---
+
+## 📂 Dataset
+All analysis was based on the following dataset:  
+🔗 [Airbnb Paris Listings & Reviews (Kaggle)](https://www.kaggle.com/datasets/tawfikelmetwally/employee-dataset)
+- File name: `Employee.csv`
+- Fields: `Age`, `Gender`, `Education`, `City`, `PaymentTier`, `JoiningYear`, `ExperienceInCurrentDomain`, `EverBenched`, `LeaveOrNot`
+
+---
+
+
 
 
 

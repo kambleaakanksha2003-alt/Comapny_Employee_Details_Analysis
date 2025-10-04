@@ -43,6 +43,37 @@ To analyze employee data in order to:
 
 ---
 
+## 📊 Key Insights (based on expected chart outputs)
+
+1. **Age Distribution**:
+   - Most employees fall within a specific age range.
+   - Outliers can be observed via boxplot, indicating very young or older employees.
+
+2. **Education Level**:
+   - One or two education levels dominate the employee base.
+   - Pie chart clearly shows proportions of streams.
+
+3. **Gender vs EverBenched**:
+   - Visual difference between male and female employees benched.
+   - May highlight if one gender is disproportionately affected.
+
+4. **Payment Tiers**:
+   - Tier 2 or Tier 3 might be more populated.
+   - Useful for budgeting and compensation strategies.
+
+5. **Experience in Current Domain**:
+   - Employees with zero domain experience show higher attrition.
+   - Indicates need for better onboarding or training programs.
+
+6. **Joining Year & City**:
+   - Specific years or cities may have higher onboarding trends.
+   - Can reflect company growth in certain regions.
+
+---
+
+
+
+
 
 
 

@@ -47,6 +47,11 @@ To analyze employee data in order to:
 
 <img width="1108" height="650" alt="Age Distribution" src="https://github.com/user-attachments/assets/54ef02a9-e86e-4308-a27f-5cfd04b02519" />
 
+## Experience Domain
+
+<img width="1095" height="686" alt="Experience Domain" src="https://github.com/user-attachments/assets/25fa0c86-6ca7-4648-aced-2aef76e56864" />
+
+
 
 ## 📊 Key Insights (based on expected chart outputs)
 

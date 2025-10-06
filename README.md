@@ -43,6 +43,11 @@ To analyze employee data in order to:
 
 ---
 
+plt.figure(figsize=(12,8))
+plt.title("Experience Domain and Leave or Not")
+sns.countplot(data=df,x='ExperienceInCurrentDomain',hue='LeaveOrNot',palette='Set2')
+
+
 ## 📊 Key Insights (based on expected chart outputs)
 
 1. **Age Distribution**:
